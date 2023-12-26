@@ -1,0 +1,14 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+.login-bg{
+  
+  -fx-background-color: linear-gradient(to bottom right, #6a9ae7, #426fb1);
+
+    
+
+}
+.login-card{
+    -fx-background-color: #30363f;
+}
